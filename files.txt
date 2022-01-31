@@ -1,0 +1,4 @@
+ 5, https://mayak-vologda.ru/wp-content/uploads/2017/05/mt-sample-background.jpg
+ 
+ Айди ВП, путь к файлу на сайте
+ Айди брать из выгрузки с медафайлами
